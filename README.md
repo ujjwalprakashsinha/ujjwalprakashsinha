@@ -9,10 +9,10 @@ By day I'm in leadership - by curiosity, I'm always learning something new.
 
 ### 🧭 What I'm about
 
-- 🤖 Currently focused on AI enablement — helping engineering teams adopt AI tools,
+- 🤖 Currently focused on AI enablement - helping engineering teams adopt AI tools,
     build internal agents, and automate knowledge-heavy workflows using Python, LLMs & N8N.
 
-- 🎓 UT Austin Post-Graduate Program in AI/ML — GPA 4.33 (A+)
+- 🎓 UT Austin Post-Graduate Program in AI/ML - GPA 4.33 (A+)
 
 - 💬 Interested in: applied AI · engineering productivity · data analytics · org design
 
@@ -23,15 +23,15 @@ By day I'm in leadership - by curiosity, I'm always learning something new.
 ### 🚀 Let's build something
 
 I'm open to collaborating on:
-- **Side projects** — especially where tech meets a real business or social problem
-- **Learning & mentorship** — swapping knowledge, study groups, or just a good conversation
+- **Side projects** - especially where tech meets a real business or social problem
+- **Learning & mentorship** - swapping knowledge, study groups, or just a good conversation
 
 
 ### 📬 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ujjwal--sinha-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ujjwal-sinha/)
 
-*"Value is created at the edges — between disciplines, between people, between ideas."*
+*"Value is created at the edges - between disciplines, between people, between ideas."*
 
 
 <!---
